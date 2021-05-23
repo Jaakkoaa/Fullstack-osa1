@@ -2,4 +2,4 @@
 
 Tein myös tehtävät 1.11 - 1.14
 
-ne ovat samassa App.js koodissa unifafen kanssa
+ne ovat samassa App.js koodissa unicafen kanssa
